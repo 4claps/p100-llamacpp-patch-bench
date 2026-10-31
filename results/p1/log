@@ -1,0 +1,46 @@
+02:58:36 r1 Qwen3-VL-4B-Instruct-UD-Q4_K_XL q4_0 pat
+03:00:11 r1 Qwen3-VL-4B-Instruct-UD-Q4_K_XL q4_0 patnommvh
+03:01:44 r1 Qwen3-VL-4B-Instruct-UD-Q4_K_XL q4_0 kmic
+03:02:51 r1 Qwen3-VL-4B-Instruct-UD-Q4_K_XL q4_0 kf
+03:04:21 r1 Qwen3-VL-4B-Instruct-UD-Q4_K_XL q4_0 kfnommvh
+03:05:28 r1 Qwen3-VL-4B-Instruct-UD-Q4_K_XL q4_0 up
+03:07:00 r1 Qwen3.6-35B-A3B-MTP-UD-Q2_K_XL q4_0 pat
+03:10:29 r1 Qwen3.6-35B-A3B-MTP-UD-Q2_K_XL q4_0 patnommvh
+03:12:09 r1 Qwen3.6-35B-A3B-MTP-UD-Q2_K_XL q4_0 kmic
+  rc=139 kmic Qwen3.6-35B-A3B-MTP-UD-Q2_K_XL q4_0 r1
+03:13:29 r1 Qwen3.6-35B-A3B-MTP-UD-Q2_K_XL q4_0 kf
+  rc=139 kf Qwen3.6-35B-A3B-MTP-UD-Q2_K_XL q4_0 r1
+03:14:59 r1 Qwen3.6-35B-A3B-MTP-UD-Q2_K_XL q4_0 kfnommvh
+  rc=139 kfnommvh Qwen3.6-35B-A3B-MTP-UD-Q2_K_XL q4_0 r1
+03:16:25 r1 Qwen3.6-35B-A3B-MTP-UD-Q2_K_XL q4_0 up
+03:18:12 r2 Qwen3-VL-4B-Instruct-UD-Q4_K_XL q4_0 patnommvh
+03:19:54 r2 Qwen3-VL-4B-Instruct-UD-Q4_K_XL q4_0 kmic
+03:21:03 r2 Qwen3-VL-4B-Instruct-UD-Q4_K_XL q4_0 kf
+03:22:33 r2 Qwen3-VL-4B-Instruct-UD-Q4_K_XL q4_0 kfnommvh
+03:23:41 r2 Qwen3-VL-4B-Instruct-UD-Q4_K_XL q4_0 up
+03:25:14 r2 Qwen3-VL-4B-Instruct-UD-Q4_K_XL q4_0 pat
+03:27:06 r2 Qwen3.6-35B-A3B-MTP-UD-Q2_K_XL q4_0 patnommvh
+03:29:14 r2 Qwen3.6-35B-A3B-MTP-UD-Q2_K_XL q4_0 kmic
+  rc=139 kmic Qwen3.6-35B-A3B-MTP-UD-Q2_K_XL q4_0 r2
+03:30:44 r2 Qwen3.6-35B-A3B-MTP-UD-Q2_K_XL q4_0 kf
+  rc=139 kf Qwen3.6-35B-A3B-MTP-UD-Q2_K_XL q4_0 r2
+03:32:16 r2 Qwen3.6-35B-A3B-MTP-UD-Q2_K_XL q4_0 kfnommvh
+  rc=139 kfnommvh Qwen3.6-35B-A3B-MTP-UD-Q2_K_XL q4_0 r2
+03:33:45 r2 Qwen3.6-35B-A3B-MTP-UD-Q2_K_XL q4_0 up
+03:35:34 r2 Qwen3.6-35B-A3B-MTP-UD-Q2_K_XL q4_0 pat
+03:37:22 r3 Qwen3-VL-4B-Instruct-UD-Q4_K_XL q4_0 kmic
+03:38:34 r3 Qwen3-VL-4B-Instruct-UD-Q4_K_XL q4_0 kf
+03:40:05 r3 Qwen3-VL-4B-Instruct-UD-Q4_K_XL q4_0 kfnommvh
+03:41:12 r3 Qwen3-VL-4B-Instruct-UD-Q4_K_XL q4_0 up
+03:42:44 r3 Qwen3-VL-4B-Instruct-UD-Q4_K_XL q4_0 pat
+03:44:40 r3 Qwen3-VL-4B-Instruct-UD-Q4_K_XL q4_0 patnommvh
+03:46:13 r3 Qwen3.6-35B-A3B-MTP-UD-Q2_K_XL q4_0 kmic
+  rc=139 kmic Qwen3.6-35B-A3B-MTP-UD-Q2_K_XL q4_0 r3
+03:48:21 r3 Qwen3.6-35B-A3B-MTP-UD-Q2_K_XL q4_0 kf
+  rc=139 kf Qwen3.6-35B-A3B-MTP-UD-Q2_K_XL q4_0 r3
+03:50:19 r3 Qwen3.6-35B-A3B-MTP-UD-Q2_K_XL q4_0 kfnommvh
+  rc=139 kfnommvh Qwen3.6-35B-A3B-MTP-UD-Q2_K_XL q4_0 r3
+03:51:42 r3 Qwen3.6-35B-A3B-MTP-UD-Q2_K_XL q4_0 up
+03:53:31 r3 Qwen3.6-35B-A3B-MTP-UD-Q2_K_XL q4_0 pat
+03:55:17 r3 Qwen3.6-35B-A3B-MTP-UD-Q2_K_XL q4_0 patnommvh
+AB-DONE

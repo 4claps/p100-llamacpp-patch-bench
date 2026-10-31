@@ -1,0 +1,14 @@
+ggml_cuda_init: found 1 CUDA devices (Total VRAM: 16269 MiB):
+  Device 0: Tesla P100-PCIE-16GB, compute capability 6.0, VMM: yes, VRAM: 16269 MiB
+Testing 2 devices
+
+Backend 1/2: CUDA0
+  Device description: Tesla P100-PCIE-16GB
+  Device memory: 16269 MB (16011 MB free)
+
+  0/0 tests passed
+  Backend CUDA0: [1;32mOK[0m
+Backend 2/2: CPU
+  Skipping
+2/2 backends passed
+[1;32mOK[0m

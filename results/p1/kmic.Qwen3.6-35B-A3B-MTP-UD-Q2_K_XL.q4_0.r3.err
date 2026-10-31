@@ -1,0 +1,14 @@
+ggml_cuda_init: found 1 CUDA devices (Total VRAM: 16269 MiB):
+  Device 0: Tesla P100-PCIE-16GB, compute capability 6.0, VMM: yes, VRAM: 16269 MiB
+/workspace/src/ggml/src/ggml-cuda/ggml-cuda.cu:112: CUDA error
+/workspace/build-nccl/bin/libggml-base.so.0(+0x1dafb)[0x7fcdea1ebafb]
+/workspace/build-nccl/bin/libggml-base.so.0(ggml_print_backtrace+0x21f)[0x7fcdea1ebf7f]
+/workspace/build-nccl/bin/libggml-base.so.0(ggml_abort+0x152)[0x7fcdea1ec152]
+/workspace/build-nccl/bin/libggml-cuda.so.0(+0x2d4c66)[0x7fcde64d4c66]
+/workspace/build-nccl/bin/libggml-cuda.so.0(+0x2d8c9f)[0x7fcde64d8c9f]
+/workspace/build-nccl/bin/libggml-base.so.0(ggml_backend_sched_synchronize+0x2e)[0x7fcdea20773e]
+/workspace/build-nccl/bin/libllama.so.0(_ZN13llama_context11synchronizeEv+0x19)[0x7fcde99e2519]
+/workspace/build-nccl/bin/libllama-bench-impl.so(_Z11llama_benchiPPc+0x2154)[0x7fcdea74d0f4]
+/lib/x86_64-linux-gnu/libc.so.6(+0x29d90)[0x7fcdea2d6d90]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0x80)[0x7fcdea2d6e40]
+/workspace/build-nccl/bin/llama-bench(+0x1295)[0x557004d1c295]

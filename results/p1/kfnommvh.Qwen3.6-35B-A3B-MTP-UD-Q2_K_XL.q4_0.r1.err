@@ -1,0 +1,14 @@
+ggml_cuda_init: found 1 CUDA devices (Total VRAM: 16269 MiB):
+  Device 0: Tesla P100-PCIE-16GB, compute capability 6.0, VMM: yes, VRAM: 16269 MiB
+/data/p100ab/kmicfrost/ggml/src/ggml-cuda/ggml-cuda.cu:113: CUDA error
+/data/p100ab/kmicfrost/build/bin/libggml-base.so.0(+0x1dafb)[0x7f95c454dafb]
+/data/p100ab/kmicfrost/build/bin/libggml-base.so.0(ggml_print_backtrace+0x21f)[0x7f95c454df7f]
+/data/p100ab/kmicfrost/build/bin/libggml-base.so.0(ggml_abort+0x152)[0x7f95c454e152]
+/data/p100ab/kmicfrost/build/bin/libggml-cuda.so.0(+0x2d8686)[0x7f95c10d8686]
+/data/p100ab/kmicfrost/build/bin/libggml-cuda.so.0(+0x2dc6cf)[0x7f95c10dc6cf]
+/data/p100ab/kmicfrost/build/bin/libggml-base.so.0(ggml_backend_sched_synchronize+0x2e)[0x7f95c456973e]
+/data/p100ab/kmicfrost/build/bin/libllama.so.0(_ZN13llama_context11synchronizeEv+0x19)[0x7f95c47e2519]
+/data/p100ab/kmicfrost/build/bin/libllama-bench-impl.so(_Z11llama_benchiPPc+0x2154)[0x7f95c53ad0f4]
+/lib/x86_64-linux-gnu/libc.so.6(+0x29d90)[0x7f95c4f36d90]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0x80)[0x7f95c4f36e40]
+/data/p100ab/kmicfrost/build/bin/llama-bench(+0x1295)[0x56223381f295]

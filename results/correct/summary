@@ -1,0 +1,8 @@
+pat MUL_MAT rc=139 
+pat FLASH_ATTN_EXT rc=0   4009/4009 tests passed 
+up MUL_MAT rc=139 
+up FLASH_ATTN_EXT rc=0   3993/3993 tests passed 
+patnommvh MUL_MAT rc=139 
+pat vbias rc=0   16/16 tests passed
+up vbias rc=0   0/0 tests passed
+CORRECT-DONE
