@@ -1,0 +1,7 @@
+pat rc=0   2481/2481 tests passed fails=0
+patnommvh rc=0   2481/2481 tests passed fails=0
+up rc=0   2423/2423 tests passed fails=0
+kf rc=0   1418/1418 tests passed fails=0
+kfnommvh rc=0   1418/1418 tests passed fails=0
+kf FA rc=0   4035/4035 tests passed
+DONE

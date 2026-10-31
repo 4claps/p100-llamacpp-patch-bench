@@ -1,0 +1,13 @@
+07:11:11 r1 Qwen3.8-27B-UD-Q6_K_XL q4_0 patnommvh
+07:18:10 r1 Qwen3.8-27B-UD-Q6_K_XL q4_0 kmic
+07:23:05 r1 Qwen3.8-27B-UD-Q6_K_XL q4_0 kfnommvh
+07:28:07 r1 Qwen3.8-27B-UD-Q6_K_XL q4_0 up
+07:34:30 r2 Qwen3.8-27B-UD-Q6_K_XL q4_0 kmic
+07:39:23 r2 Qwen3.8-27B-UD-Q6_K_XL q4_0 kfnommvh
+07:44:05 r2 Qwen3.8-27B-UD-Q6_K_XL q4_0 up
+07:50:32 r2 Qwen3.8-27B-UD-Q6_K_XL q4_0 patnommvh
+07:56:55 r3 Qwen3.8-27B-UD-Q6_K_XL q4_0 kfnommvh
+08:01:32 r3 Qwen3.8-27B-UD-Q6_K_XL q4_0 up
+08:07:49 r3 Qwen3.8-27B-UD-Q6_K_XL q4_0 patnommvh
+08:14:13 r3 Qwen3.8-27B-UD-Q6_K_XL q4_0 kmic
+AB-DONE

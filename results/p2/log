@@ -1,0 +1,40 @@
+03:56:56 r1 Qwen3.8-27B-UD-Q6_K_XL q4_0 patnommvh
+04:04:14 r1 Qwen3.8-27B-UD-Q6_K_XL q4_0 kmic
+04:09:49 r1 Qwen3.8-27B-UD-Q6_K_XL q4_0 kfnommvh
+04:15:18 r1 Qwen3.8-27B-UD-Q6_K_XL q4_0 kf
+04:22:22 r1 Qwen3.8-27B-UD-Q6_K_XL q4_0 up
+04:29:23 r1 Qwen3.6-35B-A3B-MTP-UD-Q4_K_XL q4_0 patnommvh
+04:35:45 r1 Qwen3.6-35B-A3B-MTP-UD-Q4_K_XL q4_0 kmic
+  rc=139 kmic Qwen3.6-35B-A3B-MTP-UD-Q4_K_XL q4_0 r1
+04:41:39 r1 Qwen3.6-35B-A3B-MTP-UD-Q4_K_XL q4_0 kfnommvh
+  rc=139 kfnommvh Qwen3.6-35B-A3B-MTP-UD-Q4_K_XL q4_0 r1
+04:48:08 r1 Qwen3.6-35B-A3B-MTP-UD-Q4_K_XL q4_0 kf
+  rc=139 kf Qwen3.6-35B-A3B-MTP-UD-Q4_K_XL q4_0 r1
+04:55:07 r1 Qwen3.6-35B-A3B-MTP-UD-Q4_K_XL q4_0 up
+05:01:21 r2 Qwen3.8-27B-UD-Q6_K_XL q4_0 kmic
+05:07:08 r2 Qwen3.8-27B-UD-Q6_K_XL q4_0 kfnommvh
+05:12:34 r2 Qwen3.8-27B-UD-Q6_K_XL q4_0 kf
+05:19:47 r2 Qwen3.8-27B-UD-Q6_K_XL q4_0 up
+05:26:43 r2 Qwen3.8-27B-UD-Q6_K_XL q4_0 patnommvh
+05:34:00 r2 Qwen3.6-35B-A3B-MTP-UD-Q4_K_XL q4_0 kmic
+  rc=139 kmic Qwen3.6-35B-A3B-MTP-UD-Q4_K_XL q4_0 r2
+05:41:04 r2 Qwen3.6-35B-A3B-MTP-UD-Q4_K_XL q4_0 kfnommvh
+  rc=139 kfnommvh Qwen3.6-35B-A3B-MTP-UD-Q4_K_XL q4_0 r2
+05:47:33 r2 Qwen3.6-35B-A3B-MTP-UD-Q4_K_XL q4_0 kf
+  rc=139 kf Qwen3.6-35B-A3B-MTP-UD-Q4_K_XL q4_0 r2
+05:54:24 r2 Qwen3.6-35B-A3B-MTP-UD-Q4_K_XL q4_0 up
+06:00:31 r2 Qwen3.6-35B-A3B-MTP-UD-Q4_K_XL q4_0 patnommvh
+06:06:40 r3 Qwen3.8-27B-UD-Q6_K_XL q4_0 kfnommvh
+06:12:31 r3 Qwen3.8-27B-UD-Q6_K_XL q4_0 kf
+06:19:42 r3 Qwen3.8-27B-UD-Q6_K_XL q4_0 up
+06:26:25 r3 Qwen3.8-27B-UD-Q6_K_XL q4_0 patnommvh
+06:33:38 r3 Qwen3.8-27B-UD-Q6_K_XL q4_0 kmic
+06:38:35 r3 Qwen3.6-35B-A3B-MTP-UD-Q4_K_XL q4_0 kfnommvh
+  rc=139 kfnommvh Qwen3.6-35B-A3B-MTP-UD-Q4_K_XL q4_0 r3
+06:45:22 r3 Qwen3.6-35B-A3B-MTP-UD-Q4_K_XL q4_0 kf
+  rc=139 kf Qwen3.6-35B-A3B-MTP-UD-Q4_K_XL q4_0 r3
+06:51:25 r3 Qwen3.6-35B-A3B-MTP-UD-Q4_K_XL q4_0 up
+06:57:54 r3 Qwen3.6-35B-A3B-MTP-UD-Q4_K_XL q4_0 patnommvh
+07:04:18 r3 Qwen3.6-35B-A3B-MTP-UD-Q4_K_XL q4_0 kmic
+  rc=139 kmic Qwen3.6-35B-A3B-MTP-UD-Q4_K_XL q4_0 r3
+AB-DONE
